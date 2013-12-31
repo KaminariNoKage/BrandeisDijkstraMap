@@ -3,13 +3,6 @@
 * README.TXT
 */
 
-CREATE THE PROGRAM NEW EACH TIME TO AVOID GRAPH CONFLICTS
-(Changing the board/minimal time default changes the graph structure, so you risk
-getting some very strange paths)
-
-Note: This program was compiled in Eclipse on a Windows LapTop using standard ANSI C. 
-Other systems have not been accounted for (mostly because I do not have access to them).
-
 HOW TO USE:
 1. Run Map.c
 2. Enter in Brandeis location to start, via the name or the location code
